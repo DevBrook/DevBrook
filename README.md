@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevBrook
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ... Game Development in Unity, Web Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... brooklynbaylisdev@gmail.com
